@@ -31,3 +31,4 @@ function displayMobileDataInNewWindow(mobiles) {
     detailsWindow.document.write('</ul>');
     detailsWindow.document.close();
 }
+
